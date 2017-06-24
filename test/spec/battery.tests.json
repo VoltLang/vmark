@@ -1,0 +1,13 @@
+{
+	"pattern": "test.md",
+	"testCommandPrefix": "//T ",
+	"macros": {
+		"default": [
+			"//T run:vmark --test %s"
+		],
+		"expectfailure": [
+			"//T retval:1",
+			"//T run:vmark --test %s"
+		]
+	}
+}
