@@ -1,0 +1,7 @@
+/GNUmakefile
+/.bin
+/.obj
+/.battery.config.txt
+/vmark
+/vmark.exe
+/results.xml
