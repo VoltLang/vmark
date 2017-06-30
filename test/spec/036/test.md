@@ -1,8 +1,8 @@
 //T has-passed:no
 example 36
-##### src
+@@@@@@@@@@@@ src
 # foo *bar* \*baz\*
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -14,6 +14,6 @@ example 36
     <text> *baz*</text>
   </heading>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <h1>foo <em>bar</em> *baz*</h1>
-#####
+@@@@@@@@@@@@

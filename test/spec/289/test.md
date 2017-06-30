@@ -1,6 +1,6 @@
 //T has-passed:no
 example 289
-##### src
+@@@@@@@@@@@@ src
 \*not emphasized*
 \<br/> not a tag
 \[not a link](/foo)
@@ -9,7 +9,7 @@ example 289
 \* not a list
 \# not a heading
 \[foo]: /url "not a reference"
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -31,7 +31,7 @@ example 289
     <text>[foo]: /url &quot;not a reference&quot;</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>*not emphasized*
 &lt;br/&gt; not a tag
 [not a link](/foo)
@@ -40,4 +40,4 @@ example 289
 * not a list
 # not a heading
 [foo]: /url &quot;not a reference&quot;</p>
-#####
+@@@@@@@@@@@@

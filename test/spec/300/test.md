@@ -1,10 +1,10 @@
 //T has-passed:no
 example 300
-##### src
+@@@@@@@@@@@@ src
 &nbsp; &amp; &copy; &AElig; &Dcaron;
 &frac34; &HilbertSpace; &DifferentialD;
 &ClockwiseContourIntegral; &ngE;
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -16,8 +16,8 @@ example 300
     <text>∲ ≧̸</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>  &amp; © Æ Ď
 ¾ ℋ ⅆ
 ∲ ≧̸</p>
-#####
+@@@@@@@@@@@@

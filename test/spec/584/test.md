@@ -1,9 +1,9 @@
 //T has-passed:no
 example 584
-##### src
+@@@@@@@@@@@@ src
 <a foo="bar" bam = 'baz <em>"</em>'
 _boolean zoop:33=zoop:33 />
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -12,7 +12,7 @@ _boolean zoop:33=zoop:33 />
 _boolean zoop:33=zoop:33 /&gt;</html_inline>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a foo="bar" bam = 'baz <em>"</em>'
 _boolean zoop:33=zoop:33 /></p>
-#####
+@@@@@@@@@@@@

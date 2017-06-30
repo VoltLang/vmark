@@ -1,6 +1,6 @@
 //T has-passed:no
 example 53
-##### src
+@@@@@@@@@@@@ src
    Foo
 ---
 
@@ -9,7 +9,7 @@ example 53
 
   Foo
   ===
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -23,8 +23,8 @@ example 53
     <text>Foo</text>
   </heading>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <h2>Foo</h2>
 <h2>Foo</h2>
 <h1>Foo</h1>
-#####
+@@@@@@@@@@@@

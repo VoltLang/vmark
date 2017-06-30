@@ -1,8 +1,8 @@
 //T has-passed:no
 example 228
-##### src
+@@@@@@@@@@@@ src
 0. ok
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -14,8 +14,8 @@ example 228
     </item>
   </list>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <ol start="0">
 <li>ok</li>
 </ol>
-#####
+@@@@@@@@@@@@

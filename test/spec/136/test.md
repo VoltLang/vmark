@@ -1,13 +1,13 @@
 //T has-passed:no
 example 136
-##### src
+@@@@@@@@@@@@ src
 <script type="text/javascript">
 // JavaScript example
 
 document.getElementById("demo").innerHTML = "Hello JavaScript!";
 </script>
 okay
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -21,11 +21,11 @@ document.getElementById(&quot;demo&quot;).innerHTML = &quot;Hello JavaScript!&qu
     <text>okay</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <script type="text/javascript">
 // JavaScript example
 
 document.getElementById("demo").innerHTML = "Hello JavaScript!";
 </script>
 <p>okay</p>
-#####
+@@@@@@@@@@@@

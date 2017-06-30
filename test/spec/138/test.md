@@ -1,11 +1,11 @@
 //T has-passed:no
 example 138
-##### src
+@@@@@@@@@@@@ src
 <style
   type="text/css">
 
 foo
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -15,9 +15,9 @@ foo
 foo
 </html_block>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <style
   type="text/css">
 
 foo
-#####
+@@@@@@@@@@@@

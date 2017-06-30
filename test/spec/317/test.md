@@ -1,8 +1,8 @@
 //T has-passed:no
 example 317
-##### src
+@@@@@@@@@@@@ src
 `a  b`
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -10,6 +10,6 @@ example 317
     <code>a  b</code>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><code>a  b</code></p>
-#####
+@@@@@@@@@@@@

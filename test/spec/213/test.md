@@ -1,10 +1,10 @@
 //T has-passed:no
 example 213
-##### src
+@@@@@@@@@@@@ src
 >     code
 
 >    not code
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -18,7 +18,7 @@ example 213
     </paragraph>
   </block_quote>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <blockquote>
 <pre><code>code
 </code></pre>
@@ -26,4 +26,4 @@ example 213
 <blockquote>
 <p>not code</p>
 </blockquote>
-#####
+@@@@@@@@@@@@

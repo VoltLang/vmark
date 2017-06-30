@@ -1,6 +1,6 @@
 //T has-passed:no
 example 178
-##### src
+@@@@@@@@@@@@ src
 [foo]: /foo-url "foo"
 [bar]: /bar-url
   "bar"
@@ -9,7 +9,7 @@ example 178
 [foo],
 [bar],
 [baz]
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -29,8 +29,8 @@ example 178
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a href="/foo-url" title="foo">foo</a>,
 <a href="/bar-url" title="bar">bar</a>,
 <a href="/baz-url">baz</a></p>
-#####
+@@@@@@@@@@@@

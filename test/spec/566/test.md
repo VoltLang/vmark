@@ -1,8 +1,8 @@
 //T has-passed:no
 example 566
-##### src
+@@@@@@@@@@@@ src
 <a+b+c:d>
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -12,6 +12,6 @@ example 566
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a href="a+b+c:d">a+b+c:d</a></p>
-#####
+@@@@@@@@@@@@

@@ -1,12 +1,12 @@
 //T has-passed:no
 example 25
-##### src
+@@@@@@@@@@@@ src
 _ _ _ _ a
 
 a------
 
 ---a---
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -20,8 +20,8 @@ a------
     <text>---a---</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>_ _ _ _ a</p>
 <p>a------</p>
 <p>---a---</p>
-#####
+@@@@@@@@@@@@

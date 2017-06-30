@@ -1,8 +1,8 @@
 //T has-passed:no
 example 547
-##### src
+@@@@@@@@@@@@ src
 My ![foo bar](/path/to/train.jpg  "title"   )
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -13,6 +13,6 @@ My ![foo bar](/path/to/train.jpg  "title"   )
     </image>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>My <img src="/path/to/train.jpg" alt="foo bar" title="title" /></p>
-#####
+@@@@@@@@@@@@

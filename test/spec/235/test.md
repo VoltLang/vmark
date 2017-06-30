@@ -1,12 +1,12 @@
 //T has-passed:no
 example 235
-##### src
+@@@@@@@@@@@@ src
 1.      indented code
 
    paragraph
 
        more code
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -22,7 +22,7 @@ example 235
     </item>
   </list>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <ol>
 <li>
 <pre><code> indented code
@@ -32,4 +32,4 @@ example 235
 </code></pre>
 </li>
 </ol>
-#####
+@@@@@@@@@@@@

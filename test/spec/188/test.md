@@ -1,6 +1,6 @@
 //T has-passed:no
 example 188
-##### src
+@@@@@@@@@@@@ src
   
 
 aaa
@@ -9,7 +9,7 @@ aaa
 # aaa
 
   
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -20,7 +20,7 @@ aaa
     <text>aaa</text>
   </heading>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>aaa</p>
 <h1>aaa</h1>
-#####
+@@@@@@@@@@@@

@@ -1,10 +1,10 @@
 //T has-passed:no
 example 46
-##### src
+@@@@@@@@@@@@ src
 ### foo \###
 ## foo #\##
 # foo \#
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -18,8 +18,8 @@ example 46
     <text>foo #</text>
   </heading>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <h3>foo ###</h3>
 <h2>foo ###</h2>
 <h1>foo #</h1>
-#####
+@@@@@@@@@@@@

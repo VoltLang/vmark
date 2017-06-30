@@ -1,9 +1,9 @@
 //T has-passed:no
 example 478
-##### src
+@@@@@@@@@@@@ src
 [link](   /uri
   "title"  )
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -13,6 +13,6 @@ example 478
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a href="/uri" title="title">link</a></p>
-#####
+@@@@@@@@@@@@

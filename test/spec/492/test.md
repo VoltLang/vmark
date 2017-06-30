@@ -1,8 +1,8 @@
 //T has-passed:no
 example 492
-##### src
+@@@@@@@@@@@@ src
 [foo <bar attr="](baz)">
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -11,6 +11,6 @@ example 492
     <html_inline>&lt;bar attr=&quot;](baz)&quot;&gt;</html_inline>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>[foo <bar attr="](baz)"></p>
-#####
+@@@@@@@@@@@@

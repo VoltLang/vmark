@@ -1,9 +1,9 @@
 //T has-passed:no
 example 208
-##### src
+@@@@@@@@@@@@ src
 > bar
 baz
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -15,9 +15,9 @@ baz
     </paragraph>
   </block_quote>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <blockquote>
 <p>bar
 baz</p>
 </blockquote>
-#####
+@@@@@@@@@@@@

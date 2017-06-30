@@ -1,10 +1,10 @@
 //T has-passed:no
 example 207
-##### src
+@@@@@@@@@@@@ src
 > aaa
 ***
 > bbb
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -20,7 +20,7 @@ example 207
     </paragraph>
   </block_quote>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <blockquote>
 <p>aaa</p>
 </blockquote>
@@ -28,4 +28,4 @@ example 207
 <blockquote>
 <p>bbb</p>
 </blockquote>
-#####
+@@@@@@@@@@@@

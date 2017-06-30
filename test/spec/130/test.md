@@ -1,10 +1,10 @@
 //T has-passed:no
 example 130
-##### src
+@@@@@@@@@@@@ src
 <i class="foo">
 *bar*
 </i>
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -13,8 +13,8 @@ example 130
 &lt;/i&gt;
 </html_block>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <i class="foo">
 *bar*
 </i>
-#####
+@@@@@@@@@@@@

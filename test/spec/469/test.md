@@ -1,12 +1,12 @@
 //T has-passed:no
 example 469
-##### src
+@@@@@@@@@@@@ src
 [link](#fragment)
 
 [link](http://example.com#fragment)
 
 [link](http://example.com?foo=3#frag)
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -26,8 +26,8 @@ example 469
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a href="#fragment">link</a></p>
 <p><a href="http://example.com#fragment">link</a></p>
 <p><a href="http://example.com?foo=3#frag">link</a></p>
-#####
+@@@@@@@@@@@@

@@ -1,10 +1,10 @@
 //T has-passed:no
 example 128
-##### src
+@@@@@@@@@@@@ src
 <a href="foo">
 *bar*
 </a>
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -13,8 +13,8 @@ example 128
 &lt;/a&gt;
 </html_block>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <a href="foo">
 *bar*
 </a>
-#####
+@@@@@@@@@@@@

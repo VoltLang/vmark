@@ -1,10 +1,10 @@
 //T has-passed:no
 example 473
-##### src
+@@@@@@@@@@@@ src
 [link](/url "title")
 [link](/url 'title')
 [link](/url (title))
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -22,8 +22,8 @@ example 473
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a href="/url" title="title">link</a>
 <a href="/url" title="title">link</a>
 <a href="/url" title="title">link</a></p>
-#####
+@@@@@@@@@@@@

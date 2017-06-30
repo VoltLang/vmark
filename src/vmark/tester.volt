@@ -19,7 +19,7 @@ import watt.text.markdown.html;
 
 
 //! Single test files are split with this marker.
-enum Split = "#####";
+enum Split = "@@@@@@@@@@@@";
 
 
 fn runTest(args: string[]) i32

@@ -1,6 +1,6 @@
 //T has-passed:no
 example 239
-##### src
+@@@@@@@@@@@@ src
 -
   foo
 -
@@ -9,7 +9,7 @@ example 239
   ```
 -
       baz
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -29,7 +29,7 @@ example 239
     </item>
   </list>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <ul>
 <li>foo</li>
 <li>
@@ -41,4 +41,4 @@ example 239
 </code></pre>
 </li>
 </ul>
-#####
+@@@@@@@@@@@@

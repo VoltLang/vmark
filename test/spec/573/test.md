@@ -1,8 +1,8 @@
 //T has-passed:no
 example 573
-##### src
+@@@@@@@@@@@@ src
 <foo+special@Bar.baz-bar0.com>
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -12,6 +12,6 @@ example 573
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a href="mailto:foo+special@Bar.baz-bar0.com">foo+special@Bar.baz-bar0.com</a></p>
-#####
+@@@@@@@@@@@@

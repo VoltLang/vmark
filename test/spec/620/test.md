@@ -1,8 +1,8 @@
 //T has-passed:no
 example 620
-##### src
+@@@@@@@@@@@@ src
 Foo χρῆν
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -10,6 +10,6 @@ Foo χρῆν
     <text>Foo χρῆν</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>Foo χρῆν</p>
-#####
+@@@@@@@@@@@@

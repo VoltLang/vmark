@@ -1,8 +1,8 @@
 //T has-passed:no
 example 380
-##### src
+@@@@@@@@@@@@ src
 __(bar)__.
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -13,6 +13,6 @@ __(bar)__.
     <text>.</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><strong>(bar)</strong>.</p>
-#####
+@@@@@@@@@@@@

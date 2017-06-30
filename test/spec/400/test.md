@@ -1,8 +1,8 @@
 //T has-passed:no
 example 400
-##### src
+@@@@@@@@@@@@ src
 ____foo__ bar__
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -15,6 +15,6 @@ ____foo__ bar__
     </strong>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><strong><strong>foo</strong> bar</strong></p>
-#####
+@@@@@@@@@@@@

@@ -1,10 +1,10 @@
 //T has-passed:no
 example 244
-##### src
+@@@@@@@@@@@@ src
 1. foo
 2.
 3. bar
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -22,10 +22,10 @@ example 244
     </item>
   </list>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <ol>
 <li>foo</li>
 <li></li>
 <li>bar</li>
 </ol>
-#####
+@@@@@@@@@@@@

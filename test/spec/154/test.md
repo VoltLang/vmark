@@ -1,10 +1,10 @@
 //T has-passed:no
 example 154
-##### src
+@@@@@@@@@@@@ src
 <div>
 *Emphasized* text.
 </div>
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -13,8 +13,8 @@ example 154
 &lt;/div&gt;
 </html_block>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <div>
 *Emphasized* text.
 </div>
-#####
+@@@@@@@@@@@@

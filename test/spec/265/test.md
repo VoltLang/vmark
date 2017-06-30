@@ -1,9 +1,9 @@
 //T has-passed:no
 example 265
-##### src
+@@@@@@@@@@@@ src
 The number of windows in my house is
 14.  The number of doors is 6.
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -13,7 +13,7 @@ The number of windows in my house is
     <text>14.  The number of doors is 6.</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>The number of windows in my house is
 14.  The number of doors is 6.</p>
-#####
+@@@@@@@@@@@@

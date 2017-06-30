@@ -1,9 +1,9 @@
 //T has-passed:no
 example 42
-##### src
+@@@@@@@@@@@@ src
 # foo ##################################
 ##### foo ##
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -14,7 +14,7 @@ example 42
     <text>foo</text>
   </heading>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <h1>foo</h1>
 <h5>foo</h5>
-#####
+@@@@@@@@@@@@

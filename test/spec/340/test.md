@@ -1,8 +1,8 @@
 //T has-passed:no
 example 340
-##### src
+@@@@@@@@@@@@ src
 aa_"bb"_cc
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -10,6 +10,6 @@ aa_"bb"_cc
     <text>aa_&quot;bb&quot;_cc</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>aa_&quot;bb&quot;_cc</p>
-#####
+@@@@@@@@@@@@

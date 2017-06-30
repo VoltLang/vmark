@@ -1,10 +1,10 @@
 //T has-passed:no
 example 506
-##### src
+@@@@@@@@@@@@ src
 [foo<http://example.com/?search=][ref]>
 
 [ref]: /uri
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -15,6 +15,6 @@ example 506
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>[foo<a href="http://example.com/?search=%5D%5Bref%5D">http://example.com/?search=][ref]</a></p>
-#####
+@@@@@@@@@@@@

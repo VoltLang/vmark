@@ -1,8 +1,8 @@
 //T has-passed:no
 example 577
-##### src
+@@@@@@@@@@@@ src
 <m:abc>
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -10,6 +10,6 @@ example 577
     <text>&lt;m:abc&gt;</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>&lt;m:abc&gt;</p>
-#####
+@@@@@@@@@@@@

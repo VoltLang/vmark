@@ -1,10 +1,10 @@
 //T has-passed:no
 example 129
-##### src
+@@@@@@@@@@@@ src
 <Warning>
 *bar*
 </Warning>
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -13,8 +13,8 @@ example 129
 &lt;/Warning&gt;
 </html_block>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <Warning>
 *bar*
 </Warning>
-#####
+@@@@@@@@@@@@

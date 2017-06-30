@@ -1,8 +1,8 @@
 //T has-passed:no
 example 471
-##### src
+@@@@@@@@@@@@ src
 [link](foo%20b&auml;)
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -12,6 +12,6 @@ example 471
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a href="foo%20b%C3%A4">link</a></p>
-#####
+@@@@@@@@@@@@

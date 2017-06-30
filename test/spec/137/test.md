@@ -1,6 +1,6 @@
 //T has-passed:no
 example 137
-##### src
+@@@@@@@@@@@@ src
 <style
   type="text/css">
 h1 {color:red;}
@@ -8,7 +8,7 @@ h1 {color:red;}
 p {color:blue;}
 </style>
 okay
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -23,7 +23,7 @@ p {color:blue;}
     <text>okay</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <style
   type="text/css">
 h1 {color:red;}
@@ -31,4 +31,4 @@ h1 {color:red;}
 p {color:blue;}
 </style>
 <p>okay</p>
-#####
+@@@@@@@@@@@@

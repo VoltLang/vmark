@@ -1,9 +1,9 @@
 //T has-passed:no
 example 253
-##### src
+@@@@@@@@@@@@ src
 > 1. > Blockquote
 continued here.
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -21,7 +21,7 @@ continued here.
     </list>
   </block_quote>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <blockquote>
 <ol>
 <li>
@@ -32,4 +32,4 @@ continued here.</p>
 </li>
 </ol>
 </blockquote>
-#####
+@@@@@@@@@@@@

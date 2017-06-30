@@ -1,6 +1,6 @@
 //T has-passed:no
 example 285
-##### src
+@@@@@@@@@@@@ src
 - a
   - b
   - c
@@ -8,7 +8,7 @@ example 285
 - d
   - e
   - f
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -49,7 +49,7 @@ example 285
     </item>
   </list>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <ul>
 <li>
 <p>a</p>
@@ -66,4 +66,4 @@ example 285
 </ul>
 </li>
 </ul>
-#####
+@@@@@@@@@@@@

@@ -1,12 +1,12 @@
 //T has-passed:no
 example 50
-##### src
+@@@@@@@@@@@@ src
 Foo *bar*
 =========
 
 Foo *bar*
 ---------
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -23,7 +23,7 @@ Foo *bar*
     </emph>
   </heading>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <h1>Foo <em>bar</em></h1>
 <h2>Foo <em>bar</em></h2>
-#####
+@@@@@@@@@@@@

@@ -1,9 +1,9 @@
 //T has-passed:no
 example 76
-##### src
+@@@@@@@@@@@@ src
     a simple
       indented code block
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -11,8 +11,8 @@ example 76
   indented code block
 </code_block>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <pre><code>a simple
   indented code block
 </code></pre>
-#####
+@@@@@@@@@@@@

@@ -1,12 +1,12 @@
 //T has-passed:no
 example 162
-##### src
+@@@@@@@@@@@@ src
 [foo]: /url 'title
 
 with blank line'
 
 [foo]
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -20,8 +20,8 @@ with blank line'
     <text>[foo]</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>[foo]: /url 'title</p>
 <p>with blank line'</p>
 <p>[foo]</p>
-#####
+@@@@@@@@@@@@

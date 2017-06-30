@@ -1,9 +1,9 @@
 //T has-passed:no
 example 173
-##### src
+@@@@@@@@@@@@ src
 [foo]: /url
 "title" ok
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -11,6 +11,6 @@ example 173
     <text>&quot;title&quot; ok</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>&quot;title&quot; ok</p>
-#####
+@@@@@@@@@@@@

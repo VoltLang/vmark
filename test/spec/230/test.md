@@ -1,8 +1,8 @@
 //T has-passed:no
 example 230
-##### src
+@@@@@@@@@@@@ src
 -1. not ok
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -10,6 +10,6 @@ example 230
     <text>-1. not ok</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>-1. not ok</p>
-#####
+@@@@@@@@@@@@

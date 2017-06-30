@@ -1,9 +1,9 @@
 //T has-passed:no
 example 406
-##### src
+@@@@@@@@@@@@ src
 **foo *bar **baz**
 bim* bop**
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -22,7 +22,7 @@ bim* bop**
     </strong>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><strong>foo <em>bar <strong>baz</strong>
 bim</em> bop</strong></p>
-#####
+@@@@@@@@@@@@

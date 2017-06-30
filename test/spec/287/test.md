@@ -1,8 +1,8 @@
 //T has-passed:no
 example 287
-##### src
+@@@@@@@@@@@@ src
 \!\"\#\$\%\&\'\(\)\*\+\,\-\.\/\:\;\<\=\>\?\@\[\\\]\^\_\`\{\|\}\~
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -10,6 +10,6 @@ example 287
     <text>!&quot;#$%&amp;'()*+,-./:;&lt;=&gt;?@[\]^_`{|}~</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>!&quot;#$%&amp;'()*+,-./:;&lt;=&gt;?@[\]^_`{|}~</p>
-#####
+@@@@@@@@@@@@

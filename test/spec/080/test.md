@@ -1,6 +1,6 @@
 //T has-passed:no
 example 80
-##### src
+@@@@@@@@@@@@ src
     chunk1
 
     chunk2
@@ -8,7 +8,7 @@ example 80
  
  
     chunk3
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -21,7 +21,7 @@ chunk2
 chunk3
 </code_block>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <pre><code>chunk1
 
 chunk2
@@ -30,4 +30,4 @@ chunk2
 
 chunk3
 </code></pre>
-#####
+@@@@@@@@@@@@

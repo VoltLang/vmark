@@ -1,8 +1,8 @@
 //T has-passed:no
 example 260
-##### src
+@@@@@@@@@@@@ src
 1. - 2. foo
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -22,7 +22,7 @@ example 260
     </item>
   </list>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <ol>
 <li>
 <ul>
@@ -34,4 +34,4 @@ example 260
 </ul>
 </li>
 </ol>
-#####
+@@@@@@@@@@@@

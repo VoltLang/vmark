@@ -1,8 +1,8 @@
 //T has-passed:no
 example 448
-##### src
+@@@@@@@@@@@@ src
 _foo [bar_](/url)
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -13,6 +13,6 @@ _foo [bar_](/url)
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>_foo <a href="/url">bar_</a></p>
-#####
+@@@@@@@@@@@@

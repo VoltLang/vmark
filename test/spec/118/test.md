@@ -1,12 +1,12 @@
 //T has-passed:no
 example 118
-##### src
+@@@@@@@@@@@@ src
 <DIV CLASS="foo">
 
 *Markdown*
 
 </DIV>
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -20,8 +20,8 @@ example 118
   <html_block>&lt;/DIV&gt;
 </html_block>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <DIV CLASS="foo">
 <p><em>Markdown</em></p>
 </DIV>
-#####
+@@@@@@@@@@@@

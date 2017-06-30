@@ -1,10 +1,10 @@
 //T has-passed:no
 example 159
-##### src
+@@@@@@@@@@@@ src
 [Foo*bar\]]:my_(url) 'title (with parens)'
 
 [Foo*bar\]]
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -14,6 +14,6 @@ example 159
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a href="my_(url)" title="title (with parens)">Foo*bar]</a></p>
-#####
+@@@@@@@@@@@@

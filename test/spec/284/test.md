@@ -1,11 +1,11 @@
 //T has-passed:no
 example 284
-##### src
+@@@@@@@@@@@@ src
 * foo
   * bar
 
   baz
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -27,7 +27,7 @@ example 284
     </item>
   </list>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <ul>
 <li>
 <p>foo</p>
@@ -37,4 +37,4 @@ example 284
 <p>baz</p>
 </li>
 </ul>
-#####
+@@@@@@@@@@@@

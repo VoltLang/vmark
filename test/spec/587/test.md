@@ -1,8 +1,8 @@
 //T has-passed:no
 example 587
-##### src
+@@@@@@@@@@@@ src
 <a h*#ref="hi">
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -10,6 +10,6 @@ example 587
     <text>&lt;a h*#ref=&quot;hi&quot;&gt;</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>&lt;a h*#ref=&quot;hi&quot;&gt;</p>
-#####
+@@@@@@@@@@@@

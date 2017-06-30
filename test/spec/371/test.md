@@ -1,9 +1,9 @@
 //T has-passed:no
 example 371
-##### src
+@@@@@@@@@@@@ src
 **Gomphocarpus (*Gomphocarpus physocarpus*, syn.
 *Asclepias physocarpa*)**
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -22,7 +22,7 @@ example 371
     </strong>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><strong>Gomphocarpus (<em>Gomphocarpus physocarpus</em>, syn.
 <em>Asclepias physocarpa</em>)</strong></p>
-#####
+@@@@@@@@@@@@

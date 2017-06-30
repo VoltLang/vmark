@@ -1,9 +1,9 @@
 //T has-passed:no
 example 68
-##### src
+@@@@@@@@@@@@ src
 - foo
 -----
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -16,9 +16,9 @@ example 68
   </list>
   <thematic_break />
 </document>
-##### html
+@@@@@@@@@@@@ html
 <ul>
 <li>foo</li>
 </ul>
 <hr />
-#####
+@@@@@@@@@@@@

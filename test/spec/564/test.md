@@ -1,8 +1,8 @@
 //T has-passed:no
 example 564
-##### src
+@@@@@@@@@@@@ src
 <irc://foo.bar:2233/baz>
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -12,6 +12,6 @@ example 564
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a href="irc://foo.bar:2233/baz">irc://foo.bar:2233/baz</a></p>
-#####
+@@@@@@@@@@@@

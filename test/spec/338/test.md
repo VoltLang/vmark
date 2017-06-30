@@ -1,8 +1,8 @@
 //T has-passed:no
 example 338
-##### src
+@@@@@@@@@@@@ src
 5_6_78
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -10,6 +10,6 @@ example 338
     <text>5_6_78</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>5_6_78</p>
-#####
+@@@@@@@@@@@@

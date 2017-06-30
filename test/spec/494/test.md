@@ -1,8 +1,8 @@
 //T has-passed:no
 example 494
-##### src
+@@@@@@@@@@@@ src
 [foo<http://example.com/?search=](uri)>
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -13,6 +13,6 @@ example 494
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>[foo<a href="http://example.com/?search=%5D(uri)">http://example.com/?search=](uri)</a></p>
-#####
+@@@@@@@@@@@@

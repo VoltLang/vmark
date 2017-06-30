@@ -1,8 +1,8 @@
 //T has-passed:no
 example 455
-##### src
+@@@@@@@@@@@@ src
 __a<http://foo.bar/?q=__>
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -13,6 +13,6 @@ __a<http://foo.bar/?q=__>
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>__a<a href="http://foo.bar/?q=__">http://foo.bar/?q=__</a></p>
-#####
+@@@@@@@@@@@@

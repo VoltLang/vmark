@@ -1,9 +1,9 @@
 //T has-passed:no
 example 122
-##### src
+@@@@@@@@@@@@ src
 <div id="foo"
 *hi*
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -11,7 +11,7 @@ example 122
 *hi*
 </html_block>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <div id="foo"
 *hi*
-#####
+@@@@@@@@@@@@

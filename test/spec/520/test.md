@@ -1,12 +1,12 @@
 //T has-passed:no
 example 520
-##### src
+@@@@@@@@@@@@ src
 [
  ]
 
 [
  ]: /uri
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -21,9 +21,9 @@ example 520
     <text>]: /uri</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>[
 ]</p>
 <p>[
 ]: /uri</p>
-#####
+@@@@@@@@@@@@

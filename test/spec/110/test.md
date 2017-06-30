@@ -1,12 +1,12 @@
 //T has-passed:no
 example 110
-##### src
+@@@@@@@@@@@@ src
 ```ruby
 def foo(x)
   return 3
 end
 ```
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -15,9 +15,9 @@ end
 end
 </code_block>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <pre><code class="language-ruby">def foo(x)
   return 3
 end
 </code></pre>
-#####
+@@@@@@@@@@@@

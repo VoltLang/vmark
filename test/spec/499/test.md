@@ -1,10 +1,10 @@
 //T has-passed:no
 example 499
-##### src
+@@@@@@@@@@@@ src
 [![moon](moon.jpg)][ref]
 
 [ref]: /uri
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -16,6 +16,6 @@ example 499
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a href="/uri"><img src="moon.jpg" alt="moon" /></a></p>
-#####
+@@@@@@@@@@@@

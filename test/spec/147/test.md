@@ -1,6 +1,6 @@
 //T has-passed:no
 example 147
-##### src
+@@@@@@@@@@@@ src
 <![CDATA[
 function matchwo(a,b)
 {
@@ -14,7 +14,7 @@ function matchwo(a,b)
 }
 ]]>
 okay
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -35,7 +35,7 @@ function matchwo(a,b)
     <text>okay</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <![CDATA[
 function matchwo(a,b)
 {
@@ -49,4 +49,4 @@ function matchwo(a,b)
 }
 ]]>
 <p>okay</p>
-#####
+@@@@@@@@@@@@

@@ -1,12 +1,12 @@
 //T has-passed:no
 example 175
-##### src
+@@@@@@@@@@@@ src
 ```
 [foo]: /url
 ```
 
 [foo]
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -16,8 +16,8 @@ example 175
     <text>[foo]</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <pre><code>[foo]: /url
 </code></pre>
 <p>[foo]</p>
-#####
+@@@@@@@@@@@@

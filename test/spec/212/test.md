@@ -1,10 +1,10 @@
 //T has-passed:no
 example 212
-##### src
+@@@@@@@@@@@@ src
 >>> foo
 > bar
 >>baz
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -22,7 +22,7 @@ example 212
     </block_quote>
   </block_quote>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <blockquote>
 <blockquote>
 <blockquote>
@@ -32,4 +32,4 @@ baz</p>
 </blockquote>
 </blockquote>
 </blockquote>
-#####
+@@@@@@@@@@@@

@@ -1,10 +1,10 @@
 //T has-passed:no
 example 13
-##### src
+@@@@@@@@@@@@ src
 ***
 ---
 ___
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -12,8 +12,8 @@ ___
   <thematic_break />
   <thematic_break />
 </document>
-##### html
+@@@@@@@@@@@@ html
 <hr />
 <hr />
 <hr />
-#####
+@@@@@@@@@@@@

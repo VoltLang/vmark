@@ -1,8 +1,8 @@
 //T has-passed:no
 example 581
-##### src
+@@@@@@@@@@@@ src
 <a><bab><c2c>
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -12,6 +12,6 @@ example 581
     <html_inline>&lt;c2c&gt;</html_inline>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a><bab><c2c></p>
-#####
+@@@@@@@@@@@@

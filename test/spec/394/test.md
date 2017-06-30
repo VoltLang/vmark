@@ -1,8 +1,8 @@
 //T has-passed:no
 example 394
-##### src
+@@@@@@@@@@@@ src
 ** is not an empty emphasis
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -10,6 +10,6 @@ example 394
     <text>** is not an empty emphasis</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>** is not an empty emphasis</p>
-#####
+@@@@@@@@@@@@

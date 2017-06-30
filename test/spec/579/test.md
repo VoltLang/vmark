@@ -1,8 +1,8 @@
 //T has-passed:no
 example 579
-##### src
+@@@@@@@@@@@@ src
 http://example.com
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -10,6 +10,6 @@ http://example.com
     <text>http://example.com</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>http://example.com</p>
-#####
+@@@@@@@@@@@@

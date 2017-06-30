@@ -1,13 +1,13 @@
 //T has-passed:no
 example 109
-##### src
+@@@@@@@@@@@@ src
 foo
 ---
 ~~~
 bar
 ~~~
 # baz
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -20,9 +20,9 @@ bar
     <text>baz</text>
   </heading>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <h2>foo</h2>
 <pre><code>bar
 </code></pre>
 <h1>baz</h1>
-#####
+@@@@@@@@@@@@

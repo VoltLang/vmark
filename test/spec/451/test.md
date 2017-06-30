@@ -1,8 +1,8 @@
 //T has-passed:no
 example 451
-##### src
+@@@@@@@@@@@@ src
 __<a href="__">
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -11,6 +11,6 @@ __<a href="__">
     <html_inline>&lt;a href=&quot;__&quot;&gt;</html_inline>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>__<a href="__"></p>
-#####
+@@@@@@@@@@@@

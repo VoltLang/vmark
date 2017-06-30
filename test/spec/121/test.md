@@ -1,11 +1,11 @@
 //T has-passed:no
 example 121
-##### src
+@@@@@@@@@@@@ src
 <div>
 *foo*
 
 *bar*
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -18,8 +18,8 @@ example 121
     </emph>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <div>
 *foo*
 <p><em>bar</em></p>
-#####
+@@@@@@@@@@@@

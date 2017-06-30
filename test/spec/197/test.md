@@ -1,9 +1,9 @@
 //T has-passed:no
 example 197
-##### src
+@@@@@@@@@@@@ src
 >     foo
     bar
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -14,11 +14,11 @@ example 197
   <code_block>bar
 </code_block>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <blockquote>
 <pre><code>foo
 </code></pre>
 </blockquote>
 <pre><code>bar
 </code></pre>
-#####
+@@@@@@@@@@@@

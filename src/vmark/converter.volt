@@ -82,13 +82,13 @@ fn runConvert(ref v: Value)
 	o := new OutputFileStream(file);
 	o.writefln("//T has-passed:no");
 	o.writefln("example %s", num);
-	o.writefln("##### src");
+	o.writefln("@@@@@@@@@@@@ src");
 	o.write(md);
-	o.writefln("##### xml");
+	o.writefln("@@@@@@@@@@@@ xml");
 	o.write(xml);
-	o.writefln("##### html");
+	o.writefln("@@@@@@@@@@@@ html");
 	o.write(html);
-	o.writefln("#####");
+	o.writefln("@@@@@@@@@@@@");
 	o.flush();
 	o.close();
 }

@@ -1,8 +1,8 @@
 //T has-passed:no
 example 286
-##### src
+@@@@@@@@@@@@ src
 `hi`lo`
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -11,6 +11,6 @@ example 286
     <text>lo`</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><code>hi</code>lo`</p>
-#####
+@@@@@@@@@@@@

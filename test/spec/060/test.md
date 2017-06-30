@@ -1,6 +1,6 @@
 //T has-passed:no
 example 60
-##### src
+@@@@@@@@@@@@ src
 `Foo
 ----
 `
@@ -8,7 +8,7 @@ example 60
 <a title="a lot
 ---
 of dashes"/>
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -25,9 +25,9 @@ of dashes"/>
     <text>of dashes&quot;/&gt;</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <h2>`Foo</h2>
 <p>`</p>
 <h2>&lt;a title=&quot;a lot</h2>
 <p>of dashes&quot;/&gt;</p>
-#####
+@@@@@@@@@@@@

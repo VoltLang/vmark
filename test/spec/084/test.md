@@ -1,13 +1,13 @@
 //T has-passed:no
 example 84
-##### src
+@@@@@@@@@@@@ src
 # Heading
     foo
 Heading
 ------
     foo
 ----
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -23,7 +23,7 @@ Heading
 </code_block>
   <thematic_break />
 </document>
-##### html
+@@@@@@@@@@@@ html
 <h1>Heading</h1>
 <pre><code>foo
 </code></pre>
@@ -31,4 +31,4 @@ Heading
 <pre><code>foo
 </code></pre>
 <hr />
-#####
+@@@@@@@@@@@@

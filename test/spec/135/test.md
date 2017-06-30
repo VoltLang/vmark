@@ -1,6 +1,6 @@
 //T has-passed:no
 example 135
-##### src
+@@@@@@@@@@@@ src
 <pre language="haskell"><code>
 import Text.HTML.TagSoup
 
@@ -8,7 +8,7 @@ main :: IO ()
 main = print $ parseTags tags
 </code></pre>
 okay
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -23,7 +23,7 @@ main = print $ parseTags tags
     <text>okay</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <pre language="haskell"><code>
 import Text.HTML.TagSoup
 
@@ -31,4 +31,4 @@ main :: IO ()
 main = print $ parseTags tags
 </code></pre>
 <p>okay</p>
-#####
+@@@@@@@@@@@@

@@ -1,8 +1,8 @@
 //T has-passed:no
 example 378
-##### src
+@@@@@@@@@@@@ src
 __пристаням__стремятся
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -10,6 +10,6 @@ __пристаням__стремятся
     <text>__пристаням__стремятся</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>__пристаням__стремятся</p>
-#####
+@@@@@@@@@@@@

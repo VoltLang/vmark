@@ -1,12 +1,12 @@
 //T has-passed:no
 example 512
-##### src
+@@@@@@@@@@@@ src
 [foo]: /url1
 
 [foo]: /url2
 
 [bar][foo]
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -16,6 +16,6 @@ example 512
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a href="/url1">bar</a></p>
-#####
+@@@@@@@@@@@@

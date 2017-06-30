@@ -1,12 +1,12 @@
 //T has-passed:no
 example 160
-##### src
+@@@@@@@@@@@@ src
 [Foo bar]:
 <my%20url>
 'title'
 
 [Foo bar]
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -16,6 +16,6 @@ example 160
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a href="my%20url" title="title">Foo bar</a></p>
-#####
+@@@@@@@@@@@@

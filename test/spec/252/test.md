@@ -1,9 +1,9 @@
 //T has-passed:no
 example 252
-##### src
+@@@@@@@@@@@@ src
   1.  A paragraph
     with two lines.
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -17,9 +17,9 @@ example 252
     </item>
   </list>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <ol>
 <li>A paragraph
 with two lines.</li>
 </ol>
-#####
+@@@@@@@@@@@@

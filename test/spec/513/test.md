@@ -1,10 +1,10 @@
 //T has-passed:no
 example 513
-##### src
+@@@@@@@@@@@@ src
 [bar][foo\!]
 
 [foo!]: /url
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -12,6 +12,6 @@ example 513
     <text>[bar][foo!]</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>[bar][foo!]</p>
-#####
+@@@@@@@@@@@@

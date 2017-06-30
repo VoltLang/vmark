@@ -1,9 +1,9 @@
 //T has-passed:no
 example 131
-##### src
+@@@@@@@@@@@@ src
 </ins>
 *bar*
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -11,7 +11,7 @@ example 131
 *bar*
 </html_block>
 </document>
-##### html
+@@@@@@@@@@@@ html
 </ins>
 *bar*
-#####
+@@@@@@@@@@@@

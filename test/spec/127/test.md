@@ -1,11 +1,11 @@
 //T has-passed:no
 example 127
-##### src
+@@@@@@@@@@@@ src
 <div></div>
 ``` c
 int x = 33;
 ```
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -15,9 +15,9 @@ int x = 33;
 ```
 </html_block>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <div></div>
 ``` c
 int x = 33;
 ```
-#####
+@@@@@@@@@@@@

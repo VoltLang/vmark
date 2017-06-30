@@ -1,10 +1,10 @@
 //T has-passed:no
 example 501
-##### src
+@@@@@@@@@@@@ src
 [foo *bar [baz][ref]*][ref]
 
 [ref]: /uri
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -22,6 +22,6 @@ example 501
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>[foo <em>bar <a href="/uri">baz</a></em>]<a href="/uri">ref</a></p>
-#####
+@@@@@@@@@@@@

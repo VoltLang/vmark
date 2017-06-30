@@ -1,10 +1,10 @@
 //T has-passed:no
 example 210
-##### src
+@@@@@@@@@@@@ src
 > bar
 >
 baz
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -17,9 +17,9 @@ baz
     <text>baz</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <blockquote>
 <p>bar</p>
 </blockquote>
 <p>baz</p>
-#####
+@@@@@@@@@@@@

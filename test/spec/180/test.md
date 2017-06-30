@@ -1,10 +1,10 @@
 //T has-passed:no
 example 180
-##### src
+@@@@@@@@@@@@ src
 aaa
 
 bbb
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -15,7 +15,7 @@ bbb
     <text>bbb</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>aaa</p>
 <p>bbb</p>
-#####
+@@@@@@@@@@@@

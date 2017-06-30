@@ -1,8 +1,8 @@
 //T has-passed:no
 example 486
-##### src
+@@@@@@@@@@@@ src
 [foo [bar](/uri)](/uri)
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -14,6 +14,6 @@ example 486
     <text>](/uri)</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>[foo <a href="/uri">bar</a>](/uri)</p>
-#####
+@@@@@@@@@@@@

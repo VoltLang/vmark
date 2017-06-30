@@ -1,6 +1,6 @@
 //T has-passed:no
 example 277
-##### src
+@@@@@@@@@@@@ src
 - a
 - ```
   b
@@ -8,7 +8,7 @@ example 277
 
   ```
 - c
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -31,7 +31,7 @@ example 277
     </item>
   </list>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <ul>
 <li>a</li>
 <li>
@@ -42,4 +42,4 @@ example 277
 </li>
 <li>c</li>
 </ul>
-#####
+@@@@@@@@@@@@

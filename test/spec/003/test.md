@@ -1,9 +1,9 @@
 //T has-passed:no
 example 3
-##### src
+@@@@@@@@@@@@ src
     a	a
     ὐ	a
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -11,8 +11,8 @@ example 3
 ὐ	a
 </code_block>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <pre><code>a	a
 ὐ	a
 </code></pre>
-#####
+@@@@@@@@@@@@

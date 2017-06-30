@@ -1,8 +1,8 @@
 //T has-passed:no
 example 409
-##### src
+@@@@@@@@@@@@ src
 ____ is not an empty strong emphasis
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -10,6 +10,6 @@ ____ is not an empty strong emphasis
     <text>____ is not an empty strong emphasis</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>____ is not an empty strong emphasis</p>
-#####
+@@@@@@@@@@@@

@@ -1,8 +1,8 @@
 //T has-passed:no
 example 580
-##### src
+@@@@@@@@@@@@ src
 foo@bar.example.com
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -10,6 +10,6 @@ foo@bar.example.com
     <text>foo@bar.example.com</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>foo@bar.example.com</p>
-#####
+@@@@@@@@@@@@

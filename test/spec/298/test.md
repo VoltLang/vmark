@@ -1,10 +1,10 @@
 //T has-passed:no
 example 298
-##### src
+@@@@@@@@@@@@ src
 [foo]
 
 [foo]: /bar\* "ti\*tle"
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -14,6 +14,6 @@ example 298
     </link>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p><a href="/bar*" title="ti*tle">foo</a></p>
-#####
+@@@@@@@@@@@@

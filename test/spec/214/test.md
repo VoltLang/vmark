@@ -1,13 +1,13 @@
 //T has-passed:no
 example 214
-##### src
+@@@@@@@@@@@@ src
 A paragraph
 with two lines.
 
     indented code
 
 > A block quote.
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -24,7 +24,7 @@ with two lines.
     </paragraph>
   </block_quote>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>A paragraph
 with two lines.</p>
 <pre><code>indented code
@@ -32,4 +32,4 @@ with two lines.</p>
 <blockquote>
 <p>A block quote.</p>
 </blockquote>
-#####
+@@@@@@@@@@@@

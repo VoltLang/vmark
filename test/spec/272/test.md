@@ -1,12 +1,12 @@
 //T has-passed:no
 example 272
-##### src
+@@@@@@@@@@@@ src
 1. a
 
   2. b
 
     3. c
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -28,7 +28,7 @@ example 272
     </item>
   </list>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <ol>
 <li>
 <p>a</p>
@@ -40,4 +40,4 @@ example 272
 <p>c</p>
 </li>
 </ol>
-#####
+@@@@@@@@@@@@

@@ -1,8 +1,8 @@
 //T has-passed:no
 example 588
-##### src
+@@@@@@@@@@@@ src
 <a href="hi'> <a href=hi'>
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -10,6 +10,6 @@ example 588
     <text>&lt;a href=&quot;hi'&gt; &lt;a href=hi'&gt;</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>&lt;a href=&quot;hi'&gt; &lt;a href=hi'&gt;</p>
-#####
+@@@@@@@@@@@@

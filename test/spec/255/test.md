@@ -1,11 +1,11 @@
 //T has-passed:no
 example 255
-##### src
+@@@@@@@@@@@@ src
 - foo
   - bar
     - baz
       - boo
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -38,7 +38,7 @@ example 255
     </item>
   </list>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <ul>
 <li>foo
 <ul>
@@ -54,4 +54,4 @@ example 255
 </ul>
 </li>
 </ul>
-#####
+@@@@@@@@@@@@

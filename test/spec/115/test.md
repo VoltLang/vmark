@@ -1,6 +1,6 @@
 //T has-passed:no
 example 115
-##### src
+@@@@@@@@@@@@ src
 <table>
   <tr>
     <td>
@@ -10,7 +10,7 @@ example 115
 </table>
 
 okay.
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -26,7 +26,7 @@ okay.
     <text>okay.</text>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <table>
   <tr>
     <td>
@@ -35,4 +35,4 @@ okay.
   </tr>
 </table>
 <p>okay.</p>
-#####
+@@@@@@@@@@@@

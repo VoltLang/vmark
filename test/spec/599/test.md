@@ -1,8 +1,8 @@
 //T has-passed:no
 example 599
-##### src
+@@@@@@@@@@@@ src
 foo <a href="&ouml;">
-##### xml
+@@@@@@@@@@@@ xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document SYSTEM "CommonMark.dtd">
 <document xmlns="http://commonmark.org/xml/1.0">
@@ -11,6 +11,6 @@ foo <a href="&ouml;">
     <html_inline>&lt;a href=&quot;&amp;ouml;&quot;&gt;</html_inline>
   </paragraph>
 </document>
-##### html
+@@@@@@@@@@@@ html
 <p>foo <a href="&ouml;"></p>
-#####
+@@@@@@@@@@@@
