@@ -1,4 +1,3 @@
-//T has-passed:no
 example 178
 @@@@@@@@@@@@ src
 [foo]: /foo-url "foo"

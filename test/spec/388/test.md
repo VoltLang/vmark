@@ -1,4 +1,3 @@
-//T has-passed:no
 example 388
 @@@@@@@@@@@@ src
 *foo**bar**baz*

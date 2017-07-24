@@ -1,4 +1,3 @@
-//T has-passed:no
 example 553
 @@@@@@@@@@@@ src
 ![*foo* bar][]

@@ -1,4 +1,3 @@
-//T has-passed:no
 example 543
 @@@@@@@@@@@@ src
 ![foo [bar](/url)](/url2)

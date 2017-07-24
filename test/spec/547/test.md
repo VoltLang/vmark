@@ -1,4 +1,3 @@
-//T has-passed:no
 example 547
 @@@@@@@@@@@@ src
 My ![foo bar](/path/to/train.jpg  "title"   )

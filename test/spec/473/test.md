@@ -1,4 +1,3 @@
-//T has-passed:no
 example 473
 @@@@@@@@@@@@ src
 [link](/url "title")

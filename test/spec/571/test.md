@@ -1,4 +1,3 @@
-//T has-passed:no
 example 571
 @@@@@@@@@@@@ src
 <http://example.com/\[\>

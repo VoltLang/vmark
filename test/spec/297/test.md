@@ -1,4 +1,3 @@
-//T has-passed:no
 example 297
 @@@@@@@@@@@@ src
 [foo](/bar\* "ti\*tle")

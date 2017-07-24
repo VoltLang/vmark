@@ -1,4 +1,3 @@
-//T has-passed:no
 example 573
 @@@@@@@@@@@@ src
 <foo+special@Bar.baz-bar0.com>

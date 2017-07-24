@@ -1,4 +1,3 @@
-//T has-passed:no
 example 594
 @@@@@@@@@@@@ src
 foo <!-- not a comment -- two hyphens -->

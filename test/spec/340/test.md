@@ -1,4 +1,3 @@
-//T has-passed:no
 example 340
 @@@@@@@@@@@@ src
 aa_"bb"_cc

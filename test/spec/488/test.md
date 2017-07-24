@@ -1,4 +1,3 @@
-//T has-passed:no
 example 488
 @@@@@@@@@@@@ src
 ![[[foo](uri1)](uri2)](uri3)

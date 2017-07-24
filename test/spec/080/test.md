@@ -1,4 +1,3 @@
-//T has-passed:no
 example 80
 @@@@@@@@@@@@ src
     chunk1

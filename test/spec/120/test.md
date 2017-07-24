@@ -1,4 +1,3 @@
-//T has-passed:no
 example 120
 @@@@@@@@@@@@ src
 <div id="foo" class="bar

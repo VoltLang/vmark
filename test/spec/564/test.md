@@ -1,4 +1,3 @@
-//T has-passed:no
 example 564
 @@@@@@@@@@@@ src
 <irc://foo.bar:2233/baz>

@@ -1,4 +1,3 @@
-//T has-passed:no
 example 159
 @@@@@@@@@@@@ src
 [Foo*bar\]]:my_(url) 'title (with parens)'

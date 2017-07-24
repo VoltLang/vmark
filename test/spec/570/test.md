@@ -1,4 +1,3 @@
-//T has-passed:no
 example 570
 @@@@@@@@@@@@ src
 <http://foo.bar/baz bim>

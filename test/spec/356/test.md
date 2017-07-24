@@ -1,4 +1,3 @@
-//T has-passed:no
 example 356
 @@@@@@@@@@@@ src
 ** foo bar**

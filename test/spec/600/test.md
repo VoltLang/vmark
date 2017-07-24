@@ -1,4 +1,3 @@
-//T has-passed:no
 example 600
 @@@@@@@@@@@@ src
 foo <a href="\*">

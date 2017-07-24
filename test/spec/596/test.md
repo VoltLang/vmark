@@ -1,4 +1,3 @@
-//T has-passed:no
 example 596
 @@@@@@@@@@@@ src
 foo <?php echo $a; ?>

@@ -1,4 +1,3 @@
-//T has-passed:no
 example 295
 @@@@@@@@@@@@ src
 <http://example.com?find=\*>

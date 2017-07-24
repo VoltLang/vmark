@@ -1,4 +1,3 @@
-//T has-passed:no
 example 518
 @@@@@@@@@@@@ src
 [bar\\]: /uri

@@ -1,4 +1,3 @@
-//T has-passed:no
 example 111
 @@@@@@@@@@@@ src
 ~~~~    ruby startline=3 $%@#$

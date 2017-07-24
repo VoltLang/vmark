@@ -1,4 +1,3 @@
-//T has-passed:no
 example 1
 @@@@@@@@@@@@ src
 	foo	baz		bim

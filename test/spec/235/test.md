@@ -1,4 +1,3 @@
-//T has-passed:no
 example 235
 @@@@@@@@@@@@ src
 1.      indented code

@@ -1,4 +1,3 @@
-//T has-passed:no
 example 499
 @@@@@@@@@@@@ src
 [![moon](moon.jpg)][ref]

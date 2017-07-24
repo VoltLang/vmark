@@ -1,4 +1,3 @@
-//T has-passed:no
 example 508
 @@@@@@@@@@@@ src
 [Толпой][Толпой] is a Russian word.

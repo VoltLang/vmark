@@ -1,4 +1,3 @@
-//T has-passed:no
 example 504
 @@@@@@@@@@@@ src
 [foo <bar attr="][ref]">

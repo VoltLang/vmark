@@ -1,4 +1,3 @@
-//T has-passed:no
 example 485
 @@@@@@@@@@@@ src
 [![moon](moon.jpg)](/uri)

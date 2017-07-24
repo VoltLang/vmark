@@ -1,4 +1,3 @@
-//T has-passed:no
 example 469
 @@@@@@@@@@@@ src
 [link](#fragment)

@@ -1,4 +1,3 @@
-//T has-passed:no
 example 471
 @@@@@@@@@@@@ src
 [link](foo%20b&auml;)

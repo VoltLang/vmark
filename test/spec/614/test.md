@@ -1,4 +1,3 @@
-//T has-passed:no
 example 614
 @@@@@@@@@@@@ src
 foo  

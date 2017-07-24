@@ -1,4 +1,3 @@
-//T has-passed:no
 example 266
 @@@@@@@@@@@@ src
 The number of windows in my house is

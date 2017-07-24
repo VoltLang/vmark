@@ -1,4 +1,3 @@
-//T has-passed:no
 example 597
 @@@@@@@@@@@@ src
 foo <!ELEMENT br EMPTY>

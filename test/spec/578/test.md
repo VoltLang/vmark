@@ -1,4 +1,3 @@
-//T has-passed:no
 example 578
 @@@@@@@@@@@@ src
 <foo.bar.baz>

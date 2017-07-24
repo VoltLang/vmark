@@ -1,4 +1,3 @@
-//T has-passed:no
 example 585
 @@@@@@@@@@@@ src
 Foo <responsive-image src="foo.jpg" />

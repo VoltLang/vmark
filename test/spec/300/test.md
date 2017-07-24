@@ -1,4 +1,3 @@
-//T has-passed:no
 example 300
 @@@@@@@@@@@@ src
 &nbsp; &amp; &copy; &AElig; &Dcaron;

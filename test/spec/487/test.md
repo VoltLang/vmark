@@ -1,4 +1,3 @@
-//T has-passed:no
 example 487
 @@@@@@@@@@@@ src
 [foo *[bar [baz](/uri)](/uri)*](/uri)

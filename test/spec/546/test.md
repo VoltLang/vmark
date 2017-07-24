@@ -1,4 +1,3 @@
-//T has-passed:no
 example 546
 @@@@@@@@@@@@ src
 ![foo](train.jpg)

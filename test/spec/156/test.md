@@ -1,4 +1,3 @@
-//T has-passed:no
 example 156
 @@@@@@@@@@@@ src
 <table>

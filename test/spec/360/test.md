@@ -1,4 +1,3 @@
-//T has-passed:no
 example 360
 @@@@@@@@@@@@ src
 __ foo bar__

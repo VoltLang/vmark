@@ -1,4 +1,3 @@
-//T has-passed:no
 example 500
 @@@@@@@@@@@@ src
 [foo [bar](/uri)][ref]

@@ -1,4 +1,3 @@
-//T has-passed:no
 example 84
 @@@@@@@@@@@@ src
 # Heading

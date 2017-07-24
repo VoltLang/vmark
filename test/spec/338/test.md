@@ -1,4 +1,3 @@
-//T has-passed:no
 example 338
 @@@@@@@@@@@@ src
 5_6_78

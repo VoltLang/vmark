@@ -1,4 +1,3 @@
-//T has-passed:no
 example 402
 @@@@@@@@@@@@ src
 **foo *bar* baz**

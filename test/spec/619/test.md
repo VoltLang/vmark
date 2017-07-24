@@ -1,4 +1,3 @@
-//T has-passed:no
 example 619
 @@@@@@@@@@@@ src
 hello $.;'there

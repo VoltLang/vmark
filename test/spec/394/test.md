@@ -1,4 +1,3 @@
-//T has-passed:no
 example 394
 @@@@@@@@@@@@ src
 ** is not an empty emphasis

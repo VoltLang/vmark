@@ -1,4 +1,3 @@
-//T has-passed:no
 example 302
 @@@@@@@@@@@@ src
 &#X22; &#XD06; &#xcab;

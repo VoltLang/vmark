@@ -1,4 +1,3 @@
-//T has-passed:no
 example 569
 @@@@@@@@@@@@ src
 <localhost:5001/foo>

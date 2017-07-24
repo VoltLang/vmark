@@ -1,4 +1,3 @@
-//T has-passed:no
 example 147
 @@@@@@@@@@@@ src
 <![CDATA[

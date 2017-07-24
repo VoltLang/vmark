@@ -1,4 +1,3 @@
-//T has-passed:no
 example 307
 @@@@@@@@@@@@ src
 [foo](/f&ouml;&ouml; "f&ouml;&ouml;")

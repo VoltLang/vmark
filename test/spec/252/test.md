@@ -1,4 +1,3 @@
-//T has-passed:no
 example 252
 @@@@@@@@@@@@ src
   1.  A paragraph

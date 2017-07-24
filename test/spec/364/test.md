@@ -1,4 +1,3 @@
-//T has-passed:no
 example 364
 @@@@@@@@@@@@ src
 5__6__78

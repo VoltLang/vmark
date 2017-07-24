@@ -1,4 +1,3 @@
-//T has-passed:no
 example 324
 @@@@@@@@@@@@ src
 `<http://foo.bar.`baz>`

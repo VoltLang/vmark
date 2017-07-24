@@ -1,4 +1,3 @@
-//T has-passed:no
 example 135
 @@@@@@@@@@@@ src
 <pre language="haskell"><code>

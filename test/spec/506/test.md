@@ -1,4 +1,3 @@
-//T has-passed:no
 example 506
 @@@@@@@@@@@@ src
 [foo<http://example.com/?search=][ref]>

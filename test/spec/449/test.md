@@ -1,4 +1,3 @@
-//T has-passed:no
 example 449
 @@@@@@@@@@@@ src
 *<img src="foo" title="*"/>

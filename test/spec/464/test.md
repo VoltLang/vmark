@@ -1,4 +1,3 @@
-//T has-passed:no
 example 464
 @@@@@@@@@@@@ src
 [link](\(foo\))

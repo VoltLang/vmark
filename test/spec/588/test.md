@@ -1,4 +1,3 @@
-//T has-passed:no
 example 588
 @@@@@@@@@@@@ src
 <a href="hi'> <a href=hi'>

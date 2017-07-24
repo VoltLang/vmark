@@ -1,4 +1,3 @@
-//T has-passed:no
 example 497
 @@@@@@@@@@@@ src
 [link \[bar][ref]

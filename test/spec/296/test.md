@@ -1,4 +1,3 @@
-//T has-passed:no
 example 296
 @@@@@@@@@@@@ src
 <a href="/bar\/)">

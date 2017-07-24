@@ -1,4 +1,3 @@
-//T has-passed:no
 example 399
 @@@@@@@@@@@@ src
 __foo __bar__ baz__

@@ -1,4 +1,3 @@
-//T has-passed:no
 example 34
 @@@@@@@@@@@@ src
 #5 bolt

@@ -1,4 +1,3 @@
-//T has-passed:no
 example 447
 @@@@@@@@@@@@ src
 *[bar*](/url)

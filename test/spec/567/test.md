@@ -1,4 +1,3 @@
-//T has-passed:no
 example 567
 @@@@@@@@@@@@ src
 <made-up-scheme://foo,bar>

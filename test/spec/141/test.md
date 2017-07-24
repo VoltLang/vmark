@@ -1,4 +1,3 @@
-//T has-passed:no
 example 141
 @@@@@@@@@@@@ src
 <style>p{color:red;}</style>

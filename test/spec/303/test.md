@@ -1,4 +1,3 @@
-//T has-passed:no
 example 303
 @@@@@@@@@@@@ src
 &nbsp &x; &#; &#x;

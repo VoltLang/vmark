@@ -1,4 +1,3 @@
-//T has-passed:no
 example 587
 @@@@@@@@@@@@ src
 <a h*#ref="hi">

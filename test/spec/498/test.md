@@ -1,4 +1,3 @@
-//T has-passed:no
 example 498
 @@@@@@@@@@@@ src
 [link *foo **bar** `#`*][ref]

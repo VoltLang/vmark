@@ -1,4 +1,3 @@
-//T has-passed:no
 example 621
 @@@@@@@@@@@@ src
 Multiple     spaces

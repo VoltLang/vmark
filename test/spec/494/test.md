@@ -1,4 +1,3 @@
-//T has-passed:no
 example 494
 @@@@@@@@@@@@ src
 [foo<http://example.com/?search=](uri)>

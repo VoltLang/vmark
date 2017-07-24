@@ -1,4 +1,3 @@
-//T has-passed:no
 example 599
 @@@@@@@@@@@@ src
 foo <a href="&ouml;">

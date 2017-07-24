@@ -1,4 +1,3 @@
-//T has-passed:no
 example 50
 @@@@@@@@@@@@ src
 Foo *bar*

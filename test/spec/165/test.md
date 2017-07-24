@@ -1,4 +1,3 @@
-//T has-passed:no
 example 165
 @@@@@@@@@@@@ src
 [foo]: /url\bar\*baz "foo\"bar\baz"

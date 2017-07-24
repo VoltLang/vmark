@@ -1,4 +1,3 @@
-//T has-passed:no
 example 565
 @@@@@@@@@@@@ src
 <MAILTO:FOO@BAR.BAZ>

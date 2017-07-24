@@ -1,4 +1,3 @@
-//T has-passed:no
 example 505
 @@@@@@@@@@@@ src
 [foo`][ref]`

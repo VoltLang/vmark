@@ -1,4 +1,3 @@
-//T has-passed:no
 example 586
 @@@@@@@@@@@@ src
 <33> <__>

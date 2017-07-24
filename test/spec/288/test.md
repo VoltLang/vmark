@@ -1,4 +1,3 @@
-//T has-passed:no
 example 288
 @@@@@@@@@@@@ src
 \	\A\a\ \3\φ\«

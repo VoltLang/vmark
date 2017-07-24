@@ -1,4 +1,3 @@
-//T has-passed:no
 example 226
 @@@@@@@@@@@@ src
 123456789. ok

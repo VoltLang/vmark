@@ -1,4 +1,3 @@
-//T has-passed:no
 example 442
 @@@@@@@@@@@@ src
 _____foo_____

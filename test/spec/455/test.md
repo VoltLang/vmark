@@ -1,4 +1,3 @@
-//T has-passed:no
 example 455
 @@@@@@@@@@@@ src
 __a<http://foo.bar/?q=__>

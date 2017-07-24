@@ -1,4 +1,3 @@
-//T has-passed:no
 example 169
 @@@@@@@@@@@@ src
 [ΑΓΩ]: /φου

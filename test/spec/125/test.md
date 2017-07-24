@@ -1,4 +1,3 @@
-//T has-passed:no
 example 125
 @@@@@@@@@@@@ src
 <div><a href="bar">*foo*</a></div>

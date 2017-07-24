@@ -1,4 +1,3 @@
-//T has-passed:no
 example 492
 @@@@@@@@@@@@ src
 [foo <bar attr="](baz)">

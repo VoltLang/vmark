@@ -1,4 +1,3 @@
-//T has-passed:no
 example 563
 @@@@@@@@@@@@ src
 <http://foo.bar.baz/test?q=hello&id=22&boolean>

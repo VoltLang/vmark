@@ -1,4 +1,3 @@
-//T has-passed:no
 example 584
 @@@@@@@@@@@@ src
 <a foo="bar" bam = 'baz <em>"</em>'
