@@ -18,8 +18,8 @@ import watt.io.file;
 import watt.io.streams;
 import watt.text.sink;
 import watt.process.pipe;
-import watt.text.markdown;
-import watt.text.json;
+import watt.markdown;
+import watt.json;
 import watt.text.string;
 
 

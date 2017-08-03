@@ -13,9 +13,9 @@ import watt.io.file : isFile, read;
 import watt.text.string : indexOf;
 import watt.text.diff : diff;
 
-import watt.text.markdown.parser;
-import watt.text.markdown.xml;
-import watt.text.markdown.html;
+import watt.markdown.parser;
+import watt.markdown.xml;
+import watt.markdown.html;
 
 
 //! Single test files are split with this marker.
