@@ -7,20 +7,20 @@
  */
 module vmark.converter;
 
-import watt.text.utf;
-
 import core.varargs;
 
 import io = watt.io;
 
+import watt.json;
 import watt.path;
+import watt.markdown;
 import watt.io.file;
 import watt.io.streams;
+import watt.text.utf;
 import watt.text.sink;
-import watt.process.pipe;
-import watt.markdown;
-import watt.json;
 import watt.text.string;
+import watt.text.format;
+import watt.process.pipe;
 
 
 fn runConvert(args: string[]) i32
