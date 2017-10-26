@@ -2,3 +2,5 @@
 vmark
 --dep
 watt
+--dep
+watt.json
