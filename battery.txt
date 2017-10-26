@@ -4,3 +4,5 @@ vmark
 watt
 --dep
 watt.json
+--dep
+watt.markdown
